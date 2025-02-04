@@ -26,7 +26,7 @@ tiene métodos para insertar valorers, buscar y recorrer el árbol </p>
 <li><strong>_inseetar_recursivo</strong> este metodo inserta un valor de manera recursiva compara el valor con el nodo actual y lo coloca a la izquierda si es menor o a la derecha si es mayor.No permite valores duplicados</li>
 <li><strong>Buscar</strong> busca un valor en el árbol. Llama al método _buscar_recursivo para realizar la búsqueda.</li>
 <li><strong>_buscar_recursivo</strong> busca un valor de manera recursiva Retorna True si el valor esta en el árboil y False si no.</li>
-<li><strong>imprimir</strong>Recorre el árbol en order e imprime los valores. Llama al método _imprimir_recursivo.</li>
+<li><strong>imprimir</strong> recorre el árbol en order e imprime los valores. Llama al método _imprimir_recursivo.</li>
 <li><strong>_imprimir_recursivo</strong> recorre el árbol en orden izquierda, raiz, derecha e imprime los valores</li>
 </ul>
 
