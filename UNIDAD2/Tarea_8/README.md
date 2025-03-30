@@ -41,7 +41,7 @@ La interfaz del programa tiene lo siguiente
 - Resultado: si el correo es spam o no 
 - probabilidad: probabilidad de ser spam
 
-<img src="Capturas/interfaz.png" widht="400" height="400"/>
+<img src="Capturas/Interfaz.png" widht="400" height="400"/>
 
 
 ## Captura de ejemplos de correo spam y no spam
