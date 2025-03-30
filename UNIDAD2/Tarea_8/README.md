@@ -7,7 +7,6 @@
 (spam) utilizando razonamiento monótono
 
 ## Funcionamiento
-Esta Tabla muestra un resumen breve de lo que se consideraria correo spam y lo que no.
 Haciendo las pruebas con base al entrenamiento con el data set. concluimos que el clasificador detecta mas facilmente como spam
 cuando el mensaje contiene
 
