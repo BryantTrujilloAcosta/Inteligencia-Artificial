@@ -12,7 +12,6 @@
 - Cambios de intensidad de luz
 - Rotaciones
 - cambios de escala
-- 
 <h2>Integrantes de equipo</h2>
 <ul>
 <li>MENDOZA GARCIA BRAYAN</li>
