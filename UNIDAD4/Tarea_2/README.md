@@ -1,6 +1,6 @@
 <h1>INTELIGENCIA ARTIFICIAL 9-10</h1>
 
-## Tarea 2 clasificacion de emociones en personas
+## Tarea 2 proyecto deteccion de emociones en personas mediante la webcam
 
 - app.py: es la aplicacion que ejecuta el programa para activar la camara y detectar emociones.
 - emotion_recognition.py: es para entrenar el modelo con el dataset de imagenes preprocesadas.
