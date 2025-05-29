@@ -4,9 +4,8 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 
 # Cargar el modelo entrenado
-modelo = load_model("modelo_emociones_entrenado.h5")  # cambia el nombre al correcto
-
-# Emociones en el mismo orden que usaste para entrenar
+modelo = load_model("modelo_emociones_entrenado.h5") 
+# Lista de emociones
 emociones = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
 IMG_SIZE = 48
 
